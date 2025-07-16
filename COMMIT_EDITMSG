@@ -1,0 +1,7 @@
+Improve the way available service packages load on the booking page
+
+Refactors `apiRequest` to accept options object and modifies `useQuery` in BookingPage to handle errors and debug package loading.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: e51b3961-5db8-4b27-b10b-79a686aaff4b
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/107c8cbd-4cd7-44f3-9211-61ff67059b1a/e51b3961-5db8-4b27-b10b-79a686aaff4b/awVNE0u
